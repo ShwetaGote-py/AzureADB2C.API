@@ -1,0 +1,6 @@
+@AzureADB2C.API_HostAddress = http://localhost:5082
+
+GET {{AzureADB2C.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
